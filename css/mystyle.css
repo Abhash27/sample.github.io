@@ -1,0 +1,8 @@
+.customAbout{
+    background: white;
+    
+    
+}
+.customAbout .about_text ,.customAbout .alorem_text,{
+    text-align: right;
+}
